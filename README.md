@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @HenrikStanley
-- 👀 DevOps, CI/CD, IaC, Cloud and CLI tools.
-- 🌱 Go and CLI tool building.
-
-<!---
-HenrikStanley/HenrikStanley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```shell
+$ fetchme
+                  ##                       stanley@github
+                 ####                      ----------
+                ######                     Uptime: "33 years"
+               ########                    Location: "Denmark"
+              ##########                   Languages: ["Python", "PowerShell", "Bash", "Go"]
+             ############                  OS: "Arch Linux"
+            ##############                 Editor: ["Neovim", "VSCode"]
+           ################                Hobbies: ["Board Games", "E-Sports", "Cooking"]
+          ##################               Other: "K8s, CI/CD, Automation, Developer Experience"
+         ####################
+        ######################
+       #########      #########
+      ##########      ##########           contacts
+     ###########      ###########          --------
+    ##########          ##########         LinkedIn: "in/henrikstanley/"
+   #######                  #######        Reddit: "u/hsm_dev"
+  ####                          ####       StackOverflow: "user:10115111"
+ ###                              ###
+```   
