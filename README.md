@@ -8,8 +8,8 @@ $ devfetch
              ############                  OS: Arch Linux / Win 11
             ##############                 Editor: Neovim / VSCode
            ################                Shell: Zsh / Pwsh
-          ##################               Other: Kubernetes, CI/CD, Automation, Developer Experience
-         ####################              Cloud: AWS, Azure, GCP
+          ##################               Clouds: AWS, Azure, GCP
+         ####################              Other: Kubernetes, CI/CD, Developer Experience
         ######################             Hobbies: Board Games, E-Sports, Cooking
        #########      #########
       ##########      ##########           
