@@ -1,4 +1,4 @@
-```python
+```shell
 $ devfetch
                   ##                       stanley@github
                  ####                      ----------
