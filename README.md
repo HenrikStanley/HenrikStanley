@@ -2,7 +2,7 @@
 $ devfetch
                   ##                       stanley@github
                  ####                      ----------
-                ######                     Uptime: 33 years
+                ######                     Uptime: 34 years
                ########                    Location: Denmark
               ##########                   Languages: Go, Python, PowerShell, Bash
              ############                  OS: Arch Linux / Win 11
