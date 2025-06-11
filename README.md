@@ -1,16 +1,16 @@
 ```shell
-$ devfetch
+$ whoami
                   ##                       stanley@github
                  ####                      ----------
-                ######                     Uptime: 34 years
+                ######                     Uptime: 36 years
                ########                    Location: Denmark
               ##########                   Languages: Go, Python, PowerShell, Bash
-             ############                  OS: Arch Linux / Win 11
+             ############                  OS: Arch Linux / NixOs / Win 11
             ##############                 Editor: Neovim / VSCode
            ################                Shell: Zsh / Pwsh
           ##################               Clouds: AWS, Azure, GCP
          ####################              Other: Kubernetes, CI/CD, Developer Experience
-        ######################             Hobbies: Board Games, E-Sports, Cooking
+        ######################             Hobbies: Board Games, E-Sports, Cooking, Reading
        #########      #########
       ##########      ##########           
      ###########      ###########          contacts
