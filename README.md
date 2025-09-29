@@ -5,7 +5,7 @@ $ whoami
                 ######                     Uptime: 37 years
                ########                    Location: Denmark
               ##########                   Languages: Go, Python, PowerShell, Bash
-             ############                  OS: Arch Linux / NixOs / Win 11
+             ############                  OS: Arch Linux / NixOS / Win 11
             ##############                 Editor: Neovim / VSCode
            ################                Shell: Zsh / Pwsh
           ##################               Clouds: AWS, Azure, GCP
