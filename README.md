@@ -1,6 +1,6 @@
 ```shell
 $ whoami
-                  ##                       stanley@github
+                  ##                       HenrikStanley@GitHub
                  ####                      ----------
                 ######                     Uptime: 37 years
                ########                    Location: Denmark
