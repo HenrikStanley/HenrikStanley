@@ -2,7 +2,7 @@
 $ whoami
                   ##                       stanley@github
                  ####                      ----------
-                ######                     Uptime: 36 years
+                ######                     Uptime: 37 years
                ########                    Location: Denmark
               ##########                   Languages: Go, Python, PowerShell, Bash
              ############                  OS: Arch Linux / NixOs / Win 11
