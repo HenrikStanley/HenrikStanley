@@ -9,7 +9,7 @@ $ whoami
             ##############                 Editor: Neovim / VSCode
            ################                Shell: Zsh / Pwsh
           ##################               Clouds: AWS, Azure, GCP
-         ####################              Other: Kubernetes, CI/CD, Developer Experience
+         ####################              Other: Kubernetes, CI/CD, Developer Experience, AI Agents
         ######################             Hobbies: Board Games, E-Sports, Cooking, Reading
        #########      #########
       ##########      ##########           
