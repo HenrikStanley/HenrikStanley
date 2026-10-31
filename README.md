@@ -2,14 +2,14 @@
 $ whoami
                   ##                       HenrikStanley@GitHub
                  ####                      ----------
-                ######                     Uptime: 37 years
+                ######                     Uptime: 38 years
                ########                    Location: Denmark
               ##########                   Languages: Go, Python, PowerShell, Bash
              ############                  OS: Arch Linux / NixOS / Win 11
-            ##############                 Editor: Neovim / VSCode
-           ################                Shell: Zsh / Pwsh
+            ##############                 Editor: Neovim 
+           ################                Shell: Fish / Pwsh
           ##################               Clouds: AWS, Azure, GCP
-         ####################              Other: Kubernetes, CI/CD, Developer Experience, AI Agents
+         ####################              Other: Kubernetes, CI/CD, Developer Experience, Agentic Development
         ######################             Hobbies: Board Games, E-Sports, Cooking, Reading
        #########      #########
       ##########      ##########           
